@@ -1,0 +1,23 @@
+*{
+    background-color: beige;
+    /* text-align: center; */
+}
+.list{
+    text-align: center;
+}
+button{
+    background-color: cadetblue;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    font-weight: bold;
+    padding: 5px;
+    
+}
+input{
+    padding: 5px;
+
+    border-radius: 2px;
+    
+}
+
